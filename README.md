@@ -3,8 +3,8 @@
 This repository contains my work for the AI/ML add-on course (Week 1).  
 Each notebook covers a different dataset and analysis:
 
-- Breast_Cancer.ipynb — Data cleaning, EDA, and insights.
-- Health_Insurance.ipynb — Predictive modeling on health insurance data.
+- Breast_Cancer.ipynb — Data cleaning and EDA.
+- Health_Insurance.ipynb — Analysis on health insurance data.
 - To_Do_tasks.ipynb — Python exercises.
 - week1_home_workout_python (1).ipynb — Practice problems.
 
