@@ -3,17 +3,6 @@
 This repository contains the projects I completed during my internship.  
 All the work was done using **Python** in **Google Colab**.
 
----
-
-## Repository Structure
-
-The projects are organized by week folders:
-
-- **[WEEK1](./week01)**
-- **[WEEK2](./week02)**
-- **[WEEK3](./week03)**
-
-
 
 ---
 
