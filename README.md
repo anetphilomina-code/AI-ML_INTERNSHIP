@@ -9,11 +9,11 @@ All the work was done using **Python** in **Google Colab**.
 
 The projects are organized by week folders:
 
-- **[Week 1](./week01)**
-- **[Week 2](./week02)**
-- **[Week 3](./week03)**
+- **[WEEK1](./week01)**
+- **[WEEK2](./week02)**
+- **[WEEK3](./week03)**
 
-> ⚠️ Folders are named with leading zeros (`week01`, `week02`, `week03`) to ensure proper order on GitHub.
+
 
 ---
 
