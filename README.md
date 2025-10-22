@@ -23,7 +23,8 @@ All the work was done using **Python** in **Google Colab**.
     - Exploratory Data Analysis (EDA)
     - Visualization
     - Encoding categorical data
-### 3.Customer Segmentation(Week 2) (Unsupervised Learning)**: Segment customers based on behavior using clustering techniques.
+### 3.Customer Segmentation(Week 2) (Unsupervised Learning)
+  Segment customers based on behavior using clustering techniques.
   - Tasks:
     - Hierarchical clustering
     - DBSCAN clustering
