@@ -23,14 +23,14 @@ All the work was done using **Python** in **Google Colab**.
     - Exploratory Data Analysis (EDA)
     - Visualization
     - Encoding categorical data
-- **Customer Segmentation(Week 2) (Unsupervised Learning)**: Segment customers based on behavior using clustering techniques.
+### 3.Customer Segmentation(Week 2) (Unsupervised Learning)**: Segment customers based on behavior using clustering techniques.
   - Tasks:
     - Hierarchical clustering
     - DBSCAN clustering
     - K-Means clustering 
     - Analysis and visualization of customer segments
 
-### 3. Amazon Fine Food Reviews (Week 2 )
+### 4. Amazon Fine Food Reviews (Week 2 )
 - Sentiment analysis on Amazon food reviews.
 - Tasks:
   - Text preprocessing
@@ -38,7 +38,7 @@ All the work was done using **Python** in **Google Colab**.
  - Vectorization (TF-IDF)
   
 
-### 4. MNIST Handwritten Digit Classifier (Week 3)
+### 5. MNIST Handwritten Digit Classifier (Week 3)
 - Classify handwritten digits (0–9) using a Deep Neural Network (DNN) trained on the MNIST dataset.
 - Tasks:
   - Load and visualize the MNIST dataset
