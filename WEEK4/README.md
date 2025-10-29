@@ -25,5 +25,12 @@ It provides an interactive interface for content generation using **Streamlit** 
 - **os** – for environment variable access  
 
 ---
+## Project Structure
+ Blog_Generator_app/
+│
+├── app.py                 # Main Streamlit application
+├── .env                   # API key stored here
+├── requirements.txt       # List of dependencies
+└── README.md              # Project documentation
 
 
