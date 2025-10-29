@@ -26,11 +26,6 @@ It provides an interactive interface for content generation using **Streamlit** 
 
 ---
 ## Project Structure
-- Blog_Generator_app/
--│
--├── app.py                 
--├── .env                   
--├── requirements.txt       
--└── README.md            
+Blog_Generator_app/ │ ├── app.py                 # Main Streamlit application ├── .env                   # API key stored here ├── requirements.txt       # List of dependencies └── README.md              # Project documentation           
 
 
